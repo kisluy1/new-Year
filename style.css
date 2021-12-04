@@ -1,0 +1,15 @@
+body{
+    font-family:'Lobster' ;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    background-image: url(../письмо/img/tekstury-risunok-santa-ded.jpg);
+    background-size: 100%;
+    background-repeat: repeat-y;
+    margin-bottom: 0px;
+    height: 1080px;
+}
+.container{
+    width: 1000px; 
+}
